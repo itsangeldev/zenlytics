@@ -1,2 +1,0 @@
-# zenlytics
-Remzen's project
